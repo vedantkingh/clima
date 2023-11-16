@@ -74,3 +74,8 @@ class _LocationScreenState extends State<LocationScreen> {
     );
   }
 }
+
+// var temp = decodedData['main']['temp'];
+// var id = decodedData['weather'][0]['id'];
+// var name = decodedData['name'];
+// print("temp is $temp, id is $id, name is $name");
